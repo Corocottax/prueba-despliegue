@@ -1,0 +1,14 @@
+header > nav > ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    align-items: center;
+    gap: 50px;
+    background-color: var(--terciary);
+    font-weight: 500;
+    font-size: 25px;
+}
+
+a {
+    color: var(--stroke);
+}
